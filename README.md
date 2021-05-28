@@ -1,12 +1,18 @@
 ### Hi there 👋
 
-I'm Jamal, from Amsterdam. I am a Web Developer who is looking to start his career as the next digital creator. I am passionate about building digital creations that save people's time. 
+### Hi there 👋, my name is Jamal
+#### I am a Web Developer
+![I am a Web Developer](https://thumbs.dreamstime.com/b/cartoon-web-developer-programming-working-concept-flat-vector-101915388.jpg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamal-nasser)](https://github.com/anuraghazra/github-readme-stats)
+I'm Jamal, from Amsterdam. I am a Web Developer who is looking to start his career as the next digital creator. I am passionate about building digital creations that save people's time.
 
 
 
+Skills: NODE JS / EXPRESS JS / REACT / JS / HTML5 / CSS3 / BOOTSTRAP
 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jamal-nasser)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jamal-nasser//)  
 
 
 
