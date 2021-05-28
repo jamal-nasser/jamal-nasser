@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Jamal, from Amsterdam. I am a Web Developer who is looking to start his career as the next digital creator. I am passionate about building digital creations that save people's time. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamal-nasser)](https://github.com/jamal-nasser/github-readme-stats)
+
+
+
+
+
+
+
+
+
 <!--
 **jamal-nasser/jamal-nasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
