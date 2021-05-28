@@ -20,6 +20,9 @@ I'm Jamal, from Amsterdam. I am a Web Developer who is looking to start his care
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
 
 
+[<img align="left" alt="Node.js" width="26px" src="https://w7.pngwing.com/pngs/552/736/png-transparent-node-js-scalable-graphics-javascript-react-develop-thinking-angle-text-trademark.png" />][github]
+
+
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
