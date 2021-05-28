@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jamal
 #### I am a Web Developer
-![I am a Web Developer](https://thumbs.dreamstime.com/b/cartoon-web-developer-programming-working-concept-flat-vector-101915388.jpg)
+![I am a Web Developer](https://github.com/jamal-nasser/jamal-nasser/blob/main/web-development.png)
 
 I'm Jamal, from Amsterdam. I am a Web Developer who is looking to start his career as the next digital creator. I am passionate about building digital creations that save people's time.
 
