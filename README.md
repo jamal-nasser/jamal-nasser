@@ -1,10 +1,12 @@
-### Hi there 👋, my name is Jamal
-#### I am a Web Developer
 ![I am a Web Developer](https://github.com/jamal-nasser/jamal-nasser/blob/main/web-development.png)
+
+### Hi there 👋, I'm Jamal
+#### I am a Web Developer
 
 I'm Jamal, from Amsterdam. I am a Web Developer who is looking to start his career as the next digital creator. I am passionate about building digital creations that save people's time.
 
-
+* ⚛️ React
+* 
 
 Skills: NODE JS / EXPRESS JS / REACT / JS / HTML5 / CSS3 / BOOTSTRAP
 
