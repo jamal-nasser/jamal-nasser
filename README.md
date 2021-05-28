@@ -5,6 +5,14 @@
 
 I'm Jamal, from Amsterdam. I am a Web Developer who is looking to start his career as the next digital creator. I am passionate about building digital creations that save people's time.
 
+Here are some facts about me:
+
+- 🔭 I’m currently looking for a job
+- 🤔 I’m looking to continue learning new skills 
+- 💬 Ask me anything you would like to know about me 
+- 🔭 I’m currently looking for a job
+- ⚡ Fun fact: I can drive airplanes ✈️
+
 
 ## Skills
 
@@ -40,12 +48,13 @@ I'm Jamal, from Amsterdam. I am a Web Developer who is looking to start his care
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal-nasser&layout=compact)](https://github.com/jamal-nasser/github-readme-stats)
+
+
 ##### You can find me on Linkedin and Github
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jamal-nasser)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jamal-nasser//)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal-nasser&layout=compact)](https://github.com/jamal-nasser/github-readme-stats)
 
 
 
