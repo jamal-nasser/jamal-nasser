@@ -40,6 +40,7 @@ I'm Jamal, from Amsterdam. I am a Web Developer who is looking to start his care
 <br />
 <br />
 
+### You can find me on Linkedin and Github
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jamal-nasser)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jamal-nasser//)  
