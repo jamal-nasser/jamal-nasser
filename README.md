@@ -33,6 +33,11 @@ I'm Jamal, from Amsterdam. I am a Web Developer who is looking to start his care
 
 [<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />][github]
 
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />][github]
+
+[<img align="left" alt="Terminal" width="26px" src="https://img.favpng.com/8/12/4/responsive-web-design-smartphone-logo-mobile-phones-png-favpng-n9raC68PQi6eY4QAj8tBLVw5c.jpg" />][github]
+
+<br />
 <br />
 
 
