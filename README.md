@@ -10,7 +10,7 @@ Here are some facts about me:
 - 🔭 I’m currently looking for a job
 - 🤔 I’m looking to continue learning new skills 
 - 💬 Ask me anything you would like to know about me 
-- ⚡ Fun fact: I can drive airplanes ✈️
+- ⚡ Fun fact: I can fly airplanes ✈️
 
 
 ## Skills
