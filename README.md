@@ -3,16 +3,6 @@
 ### Hi there 👋, I'm Jamal
 #### I am a Web Developer
 
-I'm Jamal, from Amsterdam. I am a Web Developer who is looking to start his career as the next digital creator. I am passionate about building digital creations that save people's time.
-
-Here are some facts about me:
-
-- 🔭 I’m currently looking for a job
-- 🤔 I’m looking to continue learning new skills 
-- 💬 Ask me anything you would like to know about me 
-- ⚡ Fun fact: I can fly airplanes ✈️
-
-
 ## Skills
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
